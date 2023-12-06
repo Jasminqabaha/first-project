@@ -223,6 +223,7 @@ margin-top: 50px;}
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    padding-left: 10px;
    }
 
 .piname .name h3{
